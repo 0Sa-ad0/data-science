@@ -1,3 +1,5 @@
+# here, it is used "selector gadget" chrome extension for selecting one or multiple columns.
+
 install.packages("rvest")
 install.packages("dplyr")
 library(rvest)
